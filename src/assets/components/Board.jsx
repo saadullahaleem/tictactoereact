@@ -1,5 +1,3 @@
-import React from 'react'
-
 import Cell from './Cell'
 
 import { useState } from 'react'

@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 import Board from './assets/components/Board'
 
 function App() {
